@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+div img {
+	margin: 20px;
+}
+
+div img:hover {
+	box-shadow: 5px 5px #EB382E;
+	transition: .2s;
+}
+
+.photos {
+	display: flex;
+	justify-content: center;
+}
