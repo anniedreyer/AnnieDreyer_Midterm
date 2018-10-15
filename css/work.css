@@ -53,12 +53,17 @@ div img {
 	margin-right: 20px;
 	display: flex;
 	align-items:center;
+	max-width: auto;
+	max-height: auto;
 }
 
 
 .column {
 	flex: 50%;
 }
+
+
+
 
 
 
